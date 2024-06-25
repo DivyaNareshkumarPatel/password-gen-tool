@@ -1,6 +1,6 @@
 {
   "name": "@DivyaNareshkumarPatel/password-gen-tool",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "This is a simple password generator tool",
   "main": "index.js",
   "type": "module",
