@@ -1,4 +1,4 @@
-# random-password-generator
+# password-gen-tool
 
 This is a simple password generator tool.
 ## Installation
@@ -10,7 +10,7 @@ npm install password-gen-tool
 ## Usage
 
 ```sh
-const { generatePassword } = require('random-password-generator');
+import createPassword from 'password-gen-tool'
 
 // Generate a password with default length (12 characters) and options
 console.log(generatePassword());
