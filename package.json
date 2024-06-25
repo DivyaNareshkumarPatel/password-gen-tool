@@ -17,5 +17,8 @@
   ],
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "publishConfig": {
+    "@DivyaNareshkumarPatel:registry": "https://npm.pkg.github.com"
   }
 }
