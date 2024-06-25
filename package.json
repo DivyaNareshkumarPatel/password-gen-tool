@@ -1,0 +1,21 @@
+{
+  "name": "password-gen-tool",
+  "version": "3.0.0",
+  "description": "This is a simple password generator tool",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Divya Patel",
+  "license": "MIT",
+  "keywords": [
+    "password",
+    "generator",
+    "utility",
+    "security"
+  ],
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
