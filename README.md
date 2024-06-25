@@ -1,4 +1,4 @@
-# random-password-generator
+# password-gen-tool
 
 This is a simple password generator tool.
 ## Installation
